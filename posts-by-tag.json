@@ -6,6 +6,8 @@
   "tag" : "artificial intelligence",
   "posts" : [
       
+      "./test.html",
+      
       "./AI-and-intellectual-property.html",
       
       "./back-to-basics.html",
@@ -38,6 +40,8 @@
   "tag" : "copyright",
   "posts" : [
       
+      "./test.html",
+      
       "./AI-and-intellectual-property.html"
       
     ]
@@ -47,6 +51,8 @@
   {
   "tag" : "creativity",
   "posts" : [
+      
+      "./test.html",
       
       "./AI-and-intellectual-property.html"
       
@@ -88,6 +94,8 @@
   "tag" : "machine learning",
   "posts" : [
       
+      "./test.html",
+      
       "./AI-and-intellectual-property.html",
       
       "./back-to-basics.html",
@@ -107,6 +115,8 @@
   {
   "tag" : "neural networks",
   "posts" : [
+      
+      "./test.html",
       
       "./AI-and-intellectual-property.html",
       
