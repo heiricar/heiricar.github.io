@@ -3,22 +3,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/test.html</loc>
+      <loc>http://localhost:4000/test.html</loc>
       
-        <lastmod>2021-04-20T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/AI-and-intellectual-property.html</loc>
-      
-        <lastmod>2021-04-20T00:00:00-04:00</lastmod>
+        <lastmod>2024-09-15T00:00:00-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -27,87 +14,10 @@
         <priority>0.5</priority></url>
     
   
-    
-    <url>
-      <loc>https://www.heiricar.com/back-to-basics.html</loc>
-      
-        <lastmod>2021-04-02T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
   
     
     <url>
-      <loc>https://www.heiricar.com/starting-the-adventure.html</loc>
-      
-        <lastmod>2021-03-24T00:00:00-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/deep-q-learning-tic-tac-toe.html</loc>
-      
-        <lastmod>2021-03-18T17:14:20-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/neural-network-optimization-methods.html</loc>
-      
-        <lastmod>2021-03-12T14:32:20-05:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/ML-Library-from-scratch.html</loc>
-      
-        <lastmod>2021-02-28T13:32:20-05:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/conways-game-of-life.html</loc>
-      
-        <lastmod>2021-02-10T14:32:20-05:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority></url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/single-neuron-perceptron.html</loc>
+      <loc>http://localhost:4000/Legacy/Posts/2021-01-25-single-neuron-perceptron.html</loc>
       
         <lastmod>2021-01-25T14:32:20-05:00</lastmod>
       
@@ -115,15 +25,16 @@
         <changefreq>daily</changefreq>
       
       
-        <priority>0.5</priority></url>
+        <priority>0.5</priority>
+      
+    </url>
     
-  
   
     
     <url>
-      <loc>https://www.heiricar.com/404.html</loc>
+      <loc>http://localhost:4000/Legacy/Posts/2021-02-10-conways-game-of-life.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2021-02-10T14:32:20-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -136,24 +47,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/about.html</loc>
+      <loc>http://localhost:4000/Legacy/Posts/2021-02-28-ML-Library-from-scratch.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/all-posts.json</loc>
-      
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2021-02-28T13:32:20-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -166,24 +62,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/archive.html</loc>
+      <loc>http://localhost:4000/Legacy/Posts/2021-03-12-neural-network-optimization-methods.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/</loc>
-      
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2021-03-12T14:32:20-05:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -196,24 +77,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/ipfs-404.html</loc>
+      <loc>http://localhost:4000/Legacy/Posts/2021-03-18-deep-q-learning-tic-tac-toe.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/posts-by-tag.json</loc>
-      
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2021-03-18T17:14:20-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -226,9 +92,174 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/search.json</loc>
+      <loc>http://localhost:4000/Legacy/Posts/2021-03-24-starting-the-adventure.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2021-03-24T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/Legacy/Posts/2021-04-02-back-to-basics.html</loc>
+      
+        <lastmod>2021-04-02T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/Legacy/Posts/2021-04-20-AI-and-intellectual-property.html</loc>
+      
+        <lastmod>2021-04-20T00:00:00-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/404.html</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/about.html</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/all-posts.json</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/archive.html</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/ipfs-404.html</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/posts-by-tag.json</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/resume.html</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
+      
+      
+        <changefreq>daily</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/search.json</loc>
+      
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -243,24 +274,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/tag.html</loc>
+      <loc>http://localhost:4000/tag.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
-      
-      
-        <changefreq>daily</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://www.heiricar.com/tags.html</loc>
-      
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -273,9 +289,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/page2/</loc>
+      <loc>http://localhost:4000/tags.html</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
@@ -288,9 +304,9 @@
   
     
     <url>
-      <loc>https://www.heiricar.com/feed.xml</loc>
+      <loc>http://localhost:4000/feed.xml</loc>
       
-        <lastmod>2024-09-15T22:42:48-04:00</lastmod>
+        <lastmod>2024-09-21T00:05:48-04:00</lastmod>
       
       
         <changefreq>daily</changefreq>
