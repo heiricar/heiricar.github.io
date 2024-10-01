@@ -1,24 +1,4 @@
 
 
 [   
-      
-  {
-  "tag" : "finance",
-  "posts" : [
-      
-      "./test.html"
-      
-    ]
-  } ,
-    
-      
-  {
-  "tag" : "quantitative analysis",
-  "posts" : [
-      
-      "./test.html"
-      
-    ]
-  } 
-    
 ]
